@@ -1,0 +1,1 @@
+This weather application provides real-time weather data for users. It displays the current temperature, humidity, and wind speed, along with a simple weather icon. Built using HTML, CSS, and JavaScript, the app allows users to search for the weather by city. The design is clean and easy to navigate, providing a smooth user experience.
